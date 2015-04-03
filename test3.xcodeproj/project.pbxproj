@@ -13,6 +13,7 @@
 		59F796531ACD262A00BBA22B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59F796521ACD262A00BBA22B /* Images.xcassets */; };
 		59F796561ACD262A00BBA22B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59F796541ACD262A00BBA22B /* LaunchScreen.xib */; };
 		59F796621ACD262A00BBA22B /* test3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59F796611ACD262A00BBA22B /* test3Tests.swift */; };
+		59F7966C1ACD266700BBA22B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59F7966B1ACD266700BBA22B /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		59F7965B1ACD262A00BBA22B /* test3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59F796601ACD262A00BBA22B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59F796611ACD262A00BBA22B /* test3Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3Tests.swift; sourceTree = "<group>"; };
+		59F7966B1ACD266700BBA22B /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				59F7964B1ACD262A00BBA22B /* AppDelegate.swift */,
 				59F7964D1ACD262A00BBA22B /* ViewController.swift */,
+				59F7966B1ACD266700BBA22B /* ViewController2.swift */,
 				59F7964F1ACD262A00BBA22B /* Main.storyboard */,
 				59F796521ACD262A00BBA22B /* Images.xcassets */,
 				59F796541ACD262A00BBA22B /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				59F7964E1ACD262A00BBA22B /* ViewController.swift in Sources */,
 				59F7964C1ACD262A00BBA22B /* AppDelegate.swift in Sources */,
+				59F7966C1ACD266700BBA22B /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
